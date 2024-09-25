@@ -11,3 +11,9 @@ Preprocessing and normalization techniques were applied to standardize each imag
 Transfer learning, a technique involving fine-tuning an already trained CNN model, was leveraged to refine the model's performance. Remarkably, this approach led to achieving an impressive accuracy rate of 99%.
 
 Moving forward, the model was deployed on a raspberry pi and used its camera as the input for the model. 
+Attached below is a video of the model successfully identifying a plastic waste while running on the pi. 
+
+https://github.com/user-attachments/assets/978ea665-294a-4e29-aac0-d43586373774
+
+
+
